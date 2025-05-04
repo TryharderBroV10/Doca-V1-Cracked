@@ -1,6 +1,6 @@
 -- USE AN ALT (THIS SCRIPT CAN REBIRTH YOU)
 
-local spoofedUsername = "Kenshin123075"
+local spoofedUsername = "777dankin777"
 local whitelistedUsername = "Terrionp20"
 
 local Players = game:GetService("Players")
